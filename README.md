@@ -1,7 +1,6 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in writing, building, testing and integrating REST API's (web/mobile)
-- 🌱 I’m currently learning how to use Kotlin/Spring Boot and Next.js to build some cool stuff.
-- 💞️ I’m looking to collaborate on open-source projects that employ the use of similar technologies.
+- 👀 I’m interested in building for the web with JavaScript. From websites to apps and games.
+- 🌱 I’m currently learning how framer works and documenting my journey as I progress.
 - 📫 How to reach me ... email [osuchukwudavid@gmail.com]
 
 <!---
