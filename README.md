@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David 
-- 👀 I’m interested in exploring backend engineering for the web using Java/Kotlin/Nodejs. From websites to apps as well as games.
-- 🌱 Here are some tools and skills I've developed proficiency in over the years
+- 👀 I’m interested in exploring backend engineering for the web mainly using Java/Kotlin and Node.js.
+- 🌱 Here are some tools and skills I've developed proficiency in over the past couple of years
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,mongo,postman,nodejs,aws,azure,spring,git,docker,html,css,js" />
   </a>
