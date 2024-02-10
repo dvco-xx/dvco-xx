@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring backend engineering for the web using Java/Kotlin/Node. From websites to apps as well as games.
 - 🌱 Here are some tools and skills I've developed proficiency in over the years
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,mongo,nodejs,spring,aws,git,postman,docker,html,CSS,js" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,mongo,postman,nodejs,aws,spring,git,docker,html,css,js" />
   </a>
 - 📫 How to reach me ... [https://davidosuchukwu.framer.website/contact]
 
