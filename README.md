@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in exploring backend engineering for the web using Java/Kotlin/Node. From websites to apps as well as games.
-- 🌱 Some of the tools I employ during my workday - (https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+- 🌱 Some of the tools I employ during my workday - [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,spring,mongo,node)](https://skillicons.dev)
 - 📫 How to reach me ... [https://davidosuchukwu.framer.website/contact]
 
 <!---
