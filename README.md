@@ -1,6 +1,7 @@
 - 👋 Hi, I’m David
 - 👀 I’m interested in exploring backend engineering for the web using Java/Kotlin/Node. From websites to apps as well as games.
-- 🌱 I’m currently learning how framer works for designing lightweight, minimalist webpages and documenting my journey as I progress.
+- 🌱 Some of the tools I employ during my workday - (https://skillicons.dev/icons?i=js,html,css,kotlin,java,MongoDB,aws,nodejs,azure,github)](https://skillicons.dev)
+- 
 - 📫 How to reach me ... [https://davidosuchukwu.framer.website/contact]
 
 <!---
