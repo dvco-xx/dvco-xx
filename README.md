@@ -2,13 +2,13 @@
   
 - 👀 I’m interested in exploring backend engineering for the web mainly using Java/Kotlin and Node.js.
   
-- 🌱 Here are some tools/skills I've developed proficiency in over the past couple of years
+- 🌱 The icons below represent some of the tools and skills I've developed proficiency in over the past couple of years
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,mongo,postman,nodejs,aws,azure,spring,git,docker,html,css,js" />
   </a>
   
-- 📫 How to reach me ... [https://davidosuchukwu.framer.website/contact]
+- 📫 You can reach me by sending a message at... [https://davidosuchukwu.framer.website/contact]
 
 <!---
 dvco-xx/dvco-xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
