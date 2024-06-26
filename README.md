@@ -3,9 +3,17 @@
 - 👀 I’m interested in exploring software engineering for the web, using mainly Java (Kotlin) or Node.js to sculpt the backend of large-scale applications.
   
 - 🌱 I've learned to build web applications over the last few years using some of the technologies in the icons below (hover over to view their names).
+ 
+[H3] Frontend Development:
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,spring,mongo,nodejs,aws,azure,git,postman,docker," />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+
+  [H3] Backend Development:
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs," />
   </a>
   
 - 📫 Reach out to me by sending a message at... [https://davidosuchukwu.framer.website/contact]
