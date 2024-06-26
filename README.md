@@ -4,13 +4,13 @@
   
 - 🌱 I've learned to build web applications over the last few years using some of the technologies in the icons below (hover over to view their names).
  
-[H3] Frontend Development:
+###Frontend Development:
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 
-  [H3] Backend Development:
+ ###Backend Development:
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs," />
