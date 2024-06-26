@@ -4,37 +4,38 @@
   
 - 🌱 I've learned to build web applications over the last few years using some of the technologies in the icons below (hover over to view their names).
 
-### Design:
+    ### Design:
+      
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma," />
+      </a>
+     
+    ### Frontend Development:
+      
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,webflow,framer" />
+      </a>
+    
+     ### Backend Development:
+    
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs" />
+      </a>
+    
+      ### Hosting & Deployment:
+      
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,microsoft" />
+      </a>
+    
+      ### Testing:
+      
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postman,jest" />
+      </a>
   
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma," />
-  </a>
- 
-### Frontend Development:
   
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js, webflow" />
-  </a>
-
- ### Backend Development:
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs" />
-  </a>
-
-  ### Hosting & Deployment:
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,microsoft" />
-  </a>
-
-  ### Testing:
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman, jest" />
-  </a>
-  
-- 📫 Reach out to me by sending a message at... [https://davidosuchukwu.framer.website/contact]
+- 📫 Please reach out to me by sending a message at... [https://davidosuchukwu.framer.website/contact]
 
 <!---
 dvco-xx/dvco-xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
