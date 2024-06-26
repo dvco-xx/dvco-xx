@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in exploring software engineering for the web, using mainly Java (Kotlin) or Node.js to sculpt the backend of large-scale applications.
   
-- 🌱 I've learned to build web applications over the last few years using some of the technologies in the icons below (hover over to view their names).
+- 🌱 I've learned to build web applications over the last few years using some of the technologies in the icons below.
 
   ### Design:
     
