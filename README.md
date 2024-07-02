@@ -31,7 +31,7 @@
     ### Testing:
     
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postman,jest" />
+      <img src="https://skillicons.dev/icons?i=postman,jest,sentry" />
     </a>
   
   
