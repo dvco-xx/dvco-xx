@@ -25,7 +25,7 @@
     ### Hosting & Deployment:
     
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,microsoft" />
+      <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,Microsoft,render,hostinger,digitalocean" />
     </a>
   
     ### Testing:
