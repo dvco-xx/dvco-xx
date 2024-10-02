@@ -19,13 +19,13 @@
    ### Backend Development:
   
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs,docker,kubernetes,postgres" />
+      <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs,postgres" />
     </a>
   
     ### DevOps and CI/CD:
     
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,aws,azure,docker,Microsoft" />
+      <img src="https://skillicons.dev/icons?i=git,github,aws,azure,docker,kubernetes" />
     </a>
   
     ### Testing:
