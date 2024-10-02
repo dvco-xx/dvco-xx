@@ -22,10 +22,10 @@
       <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs,docker,kubernetes,postgres" />
     </a>
   
-    ### Hosting & Deployment:
+    ### DevOps and CI/CD:
     
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,aws,azure,docker,Microsoft,render,hostinger,digitalocean" />
+      <img src="https://skillicons.dev/icons?i=git,github,aws,azure,docker,Microsoft" />
     </a>
   
     ### Testing:
