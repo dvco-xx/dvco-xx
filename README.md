@@ -13,13 +13,13 @@
   ### Frontend Development:
     
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,webflow,nextjs,framer" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,webflow,framer-motion,nextjs" />
     </a>
   
    ### Backend Development:
   
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs" />
+      <img src="https://skillicons.dev/icons?i=js,java,kotlin,spring,mongo,nodejs,docker,kubernetes,postgres" />
     </a>
   
     ### Hosting & Deployment:
