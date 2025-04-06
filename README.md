@@ -1,8 +1,8 @@
-- 👋 Hi, I’m David Osuchukwu.
+- 👋 Hi, I’m David.
   
-- 👀 I’m interested in exploring software engineering for the web, using mainly Java (Kotlin) or Node.js to sculpt the backend of large-scale applications.
+- 👀 I’m a software engineer who uses Java/Kotlin and Node.js to sculpt large-scale backend systems.
   
-- 🌱 I've learned to build web applications over the last few years using some of the technologies in the icons below.
+- 🌱 I've also learned to build fullstack web applications over the last few years using some of the technologies represented by the icons below.
 
   ### Design:
     
@@ -35,7 +35,7 @@
     </a>
   
   
-- 📫 Please reach out to me by sending a message at... [https://davidosuchukwu.framer.website/contact]
+- 📫 Please reach out to me by sending me a message at [https://davidosuchukwu.framer.website/contact]. I'd love to work with you!
 
 <!---
 dvco-xx/dvco-xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
