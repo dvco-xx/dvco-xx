@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David.
   
-- 👀 I’m a software engineer who uses Java/Kotlin and Node.js to sculpt large-scale backend systems.
+- 👀 I’m a software engineer using Java/Kotlin and Node.js to sculpt large-scale backend systems.
   
 - 🌱 I've also learned to build fullstack web applications over the last few years using some of the technologies represented by the icons below.
 
